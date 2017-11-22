@@ -6,7 +6,7 @@
 
 そこで、無名クラス宣言中にパラメータの setter を定義するといい感じ。
 
-```(java)
+```java
 int number;
 String text;
 int delay;
@@ -33,7 +33,7 @@ new Handler().postDelayed(new Runnable() {
 ちなみにそんな回りくどいことはせずに、
 Runnable の外側の変数を final 宣言すればいい説はある。
 
-```
+```java
 final int number;
 final String text;
 int delay;

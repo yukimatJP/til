@@ -26,7 +26,7 @@ Google Cloud Platform > APIとサービス > 認証情報
 
 もしくは、以下のコマンドを実行する。
 
-```
+```shell
 keytool -list -v -keystore ~/.android/debug.keystore -alias androiddebugkey -storepass android -keypass android
 ```
 
@@ -34,7 +34,7 @@ keytool -list -v -keystore ~/.android/debug.keystore -alias androiddebugkey -sto
 #### ◯ リリース用
 
 以下のコマンドを実行する。
-```
+```shell
 keytool -list -v -keystore "key-store-path" -alias "key-alias"
     key-store-path: ***.jks のある場所
     key-alias:      ***.jks に登録されているエイリアス

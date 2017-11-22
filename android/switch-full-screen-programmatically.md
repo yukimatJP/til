@@ -4,13 +4,13 @@
 プログラム上でステータスバー領域も含めてフルスクリーンに切り替える場合は、
 以下の一行を追加する。
 
-```
+```java
 getWindow().addFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN);
 ```
 
 Fragment からも変更可能。その場合は `getActivity()` する必要がある。
 
-```
+```java
 getActivity().getWindow().addFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN);
 ```
 
