@@ -18,3 +18,4 @@
 - [give-parameter-to-runnable](android/give-parameter-to-runnable.md)
 - [put-float-value-in-xml-resources](android/put-float-value-in-xml-resources.md)
 - [replace-drawable-with-icon-font](android/replace-drawable-with-icon-font.md)
+- [fix-manifest-merger-failed-with-multiple-errors](android/fix-manifest-merger-failed-with-multiple-errors.md)
