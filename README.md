@@ -17,3 +17,4 @@
 - [switch-full-screen-programmatically](android/switch-full-screen-programmatically.md)
 - [give-parameter-to-runnable](android/give-parameter-to-runnable.md)
 - [put-float-value-in-xml-resources](android/put-float-value-in-xml-resources.md)
+- [replace-drawable-with-icon-font](android/replace-drawable-with-icon-font.md)
