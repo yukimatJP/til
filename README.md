@@ -20,6 +20,7 @@
 - [put-float-value-in-xml-resources](android/put-float-value-in-xml-resources.md)
 - [replace-drawable-with-icon-font](android/replace-drawable-with-icon-font.md)
 - [fix-manifest-merger-failed-with-multiple-errors](android/fix-manifest-merger-failed-with-multiple-errors.md)
+- [disable-swipe-on-viewpager](android/disable-swipe-on-viewpager.md)
 
 
 ### Android-Kotlin
