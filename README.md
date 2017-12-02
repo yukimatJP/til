@@ -21,6 +21,7 @@
 - [replace-drawable-with-icon-font](android/replace-drawable-with-icon-font.md)
 - [fix-manifest-merger-failed-with-multiple-errors](android/fix-manifest-merger-failed-with-multiple-errors.md)
 - [disable-swipe-on-viewpager](android/disable-swipe-on-viewpager.md)
+- [make-vertical-seekbar](android/make-vertical-seekbar.md)
 
 
 ### Android-Kotlin
