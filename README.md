@@ -22,6 +22,7 @@
 - [fix-manifest-merger-failed-with-multiple-errors](android/fix-manifest-merger-failed-with-multiple-errors.md)
 - [disable-swipe-on-viewpager](android/disable-swipe-on-viewpager.md)
 - [make-vertical-seekbar](android/make-vertical-seekbar.md)
+- [get-resource-id-from-string](android/get-resource-id-from-string.md)
 
 
 ### Android-Kotlin
