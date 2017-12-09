@@ -2,14 +2,17 @@
 
 > Today I Learned
 
----
+@yukimatJP が今日学んだこと・便利なTips・トラブルの対処法などを、簡単にまとめるためのリポジトリです。  
+コーディングだけに留まらず、デザインやその他の領域に関しても幅広く取り扱います。
 
-### Categories
+- [Coding](Coding)
+  - [Android](#Android)
+  - [Android-Kotlin](#Android-Kotlin)
+- [Design](Design)
+    - [AfterEffects](#AfterEffects)
 
-- [Android](#Android)
-- [Android-Kotlin](#Android-Kotlin)
 
----
+## Coding
 
 ### Android
 
@@ -24,7 +27,11 @@
 - [make-vertical-seekbar](android/make-vertical-seekbar.md)
 - [get-resource-id-from-string](android/get-resource-id-from-string.md)
 
-
 ### Android-Kotlin
 
 - [fix-parameter-specified-as-non-null-is-null](android-kotlin/fix-parameter-specified-as-non-null-is-null.md)
+
+
+## Design
+
+### AfterEffects
