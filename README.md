@@ -16,24 +16,24 @@
 
 ### Android
 
-- [fix-app-not-installed](android/fix-app-not-installed.md)
-- [fix-google-auth-util-get-token-failed](android/fix-google-auth-util-get-token-failed.md)
-- [switch-full-screen-programmatically](android/switch-full-screen-programmatically.md)
-- [give-parameter-to-runnable](android/give-parameter-to-runnable.md)
-- [put-float-value-in-xml-resources](android/put-float-value-in-xml-resources.md)
-- [replace-drawable-with-icon-font](android/replace-drawable-with-icon-font.md)
-- [fix-manifest-merger-failed-with-multiple-errors](android/fix-manifest-merger-failed-with-multiple-errors.md)
-- [disable-swipe-on-viewpager](android/disable-swipe-on-viewpager.md)
-- [make-vertical-seekbar](android/make-vertical-seekbar.md)
-- [get-resource-id-from-string](android/get-resource-id-from-string.md)
+- [fix-app-not-installed](coding/android/fix-app-not-installed.md)
+- [fix-google-auth-util-get-token-failed](coding/android/fix-google-auth-util-get-token-failed.md)
+- [switch-full-screen-programmatically](coding/android/switch-full-screen-programmatically.md)
+- [give-parameter-to-runnable](coding/android/give-parameter-to-runnable.md)
+- [put-float-value-in-xml-resources](coding/android/put-float-value-in-xml-resources.md)
+- [replace-drawable-with-icon-font](coding/android/replace-drawable-with-icon-font.md)
+- [fix-manifest-merger-failed-with-multiple-errors](coding/android/fix-manifest-merger-failed-with-multiple-errors.md)
+- [disable-swipe-on-viewpager](coding/android/disable-swipe-on-viewpager.md)
+- [make-vertical-seekbar](coding/android/make-vertical-seekbar.md)
+- [get-resource-id-from-string](coding/android/get-resource-id-from-string.md)
 
 ### Android-Kotlin
 
-- [fix-parameter-specified-as-non-null-is-null](android-kotlin/fix-parameter-specified-as-non-null-is-null.md)
+- [fix-parameter-specified-as-non-null-is-null](coding/android-kotlin/fix-parameter-specified-as-non-null-is-null.md)
 
 
 ## Design
 
 ### AfterEffects
 
-- [add-expression](add-expression)
+- [add-expression](design/aftereffects/add-expression.md)
