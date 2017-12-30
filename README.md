@@ -37,3 +37,4 @@
 ### AfterEffects
 
 - [add-expression](design/aftereffects/add-expression.md)
+- [add-trim-paths-animation](design/aftereffects/add-trim-paths-animation.md)
